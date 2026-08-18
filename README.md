@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://sbexquisite.netlify.app/ycc/tubetop/milk/f81ac445baf366db313f56ff3de02f95.webp" width="100%"/>
+<img src="https://sbexquisite.netlify.app/ycc/tubetop/milk/f81ac445baf366db313f56ff3de02f95.webp" width="20%"/>
 
 ### `Building things that look good and work even better.`
 
