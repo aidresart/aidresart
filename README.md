@@ -63,7 +63,7 @@ and things that make complicated workflows feel simple.**
 
 > Building AI systems that actually **do things**, not just chat.
 
-* **GenAI / Agent Platforms**
+* **GenAI / Agent Platforms**[http://ibm.com]
 * **RAG & Semantic Search**
 * **SQL + AI Analytics**
 * **Knowledge Graphs**
