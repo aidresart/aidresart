@@ -18,8 +18,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aidresart&show_icons=true&hide_border=true&bg_color=0f0f0f&title_color=ff6fae&icon_color=ff6fae&text_color=dddddd" height="165"/>
-
 </div>
 
 ---
