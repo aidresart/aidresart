@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:3a1838,100:ff4f9a&height=220&section=header&text=AI%20%7C%20CODE%20%7C%20CREATIVE&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://sbexquisite.netlify.app/ycc/tubetop/milk/f81ac445baf366db313f56ff3de02f95.webp" width="100%"/>
 
 ### `Building things that look good and work even better.`
 
